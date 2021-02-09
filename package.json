@@ -27,12 +27,10 @@
   "lint-staged": {
     "*.js": [
       "eslint --fix",
-      "prettier --write --print-width 120",
-      "git add"
+      "prettier --write --print-width 120"
     ],
     "*.{css,html,json,md}": [
-      "prettier --write --print-width 120",
-      "git add"
+      "prettier --write --print-width 120"
     ]
   },
   "scripts": {
