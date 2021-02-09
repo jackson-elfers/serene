@@ -1,0 +1,15 @@
+{
+  "short_name": "Peddap",
+  "name": "Peddap",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "rgb(22, 132, 184)",
+  "background_color": "rgb(22, 132, 184)"
+}
